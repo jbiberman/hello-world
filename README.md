@@ -1,2 +1,2 @@
 # hello-world
-Learning how to use GitHub
+I'm a first year SIPA student learning how to code for career purposes. Curiosity, too.
